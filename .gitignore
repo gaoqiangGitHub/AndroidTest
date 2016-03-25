@@ -46,3 +46,7 @@
 
  # Log Files
  *.log 
+/.idea
+/build
+/gradle
+/EclipseToAS.iml
