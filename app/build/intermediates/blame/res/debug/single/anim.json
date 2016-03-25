@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_enterfromleft.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\anim\\animation_enterfromleft.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_fadefromleft.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\anim\\animation_fadefromleft.xml"
+    }
+]

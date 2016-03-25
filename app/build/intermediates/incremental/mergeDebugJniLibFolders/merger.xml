@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\EclipseToAS\app\src\main\jniLibs"><file name="armeabi/libBaiduTraceSDK_v2_1_4.so" path="F:\EclipseToAS\app\src\main\jniLibs\armeabi\libBaiduTraceSDK_v2_1_4.so"/><file name="armeabi/libgetuiext.so" path="F:\EclipseToAS\app\src\main\jniLibs\armeabi\libgetuiext.so"/></source></dataSet><dataSet config="debug"><source path="F:\EclipseToAS\app\src\debug\jniLibs"/></dataSet></merger>

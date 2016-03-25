@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refreshview_footer_layout.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\refreshview_footer_layout.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\getui_notification.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\getui_notification.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_inc.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\notification_inc.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_recyclerview.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\aty_recyclerview.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\activity_basic.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_main.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\aty_main.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_getui.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\aty_getui.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\increment_popup_dialog.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\increment_popup_dialog.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listv_item_main.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\listv_item_main.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_materialrefreshlayout.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\aty_materialrefreshlayout.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listv_item_recyclerview.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\listv_item_recyclerview.xml"
+    },
+    {
+        "merged": "F:\\EclipseToAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_trace.xml",
+        "source": "F:\\EclipseToAS\\app\\src\\main\\res\\layout\\aty_trace.xml"
+    }
+]
